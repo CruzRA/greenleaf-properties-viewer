@@ -1,0 +1,6 @@
+credentials/
+token*.json
+data_export.json
+*.db
+venv/
+__pycache__/
